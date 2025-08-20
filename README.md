@@ -1,6 +1,6 @@
 This project is an advanced AI-powered voice assistant built in Python, designed to execute a wide range of system, web, and communication tasks through voice commands. The assistant uses SpeechRecognition for capturing user commands, pyttsx3 for speech synthesis, and integrates with APIs like PyWhatKit and Wikipedia for dynamic actions.
 
-code is in helomo.py file oyu can directly run the file in your mac.
+code is in helomo.py file you can directly run the file in your mac.
 
 Key Features:
 
